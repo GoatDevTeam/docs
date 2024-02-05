@@ -1,2 +1,5 @@
-# docs
-The Documentations for Goat Scripts
+# Documention for all of goat scripts
+
+## Paid Scripts
+- Goat Garage
+
