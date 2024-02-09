@@ -1,6 +1,9 @@
 
 ![Goat Gatage](https://i.ibb.co/z7NnrcT/image-2024-02-05-130541704.png)
 
+## Support Server:
+Discord: https://discord.gg/WVU5RcnXd3
+
 ## How to setup:
 
 1. **Stop** or **delete** current garage system in your server
